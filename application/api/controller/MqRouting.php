@@ -11,4 +11,7 @@ use think\Controller;
  */
 class MqRouting extends Controller
 {
+    public function two()
+    {
+    }
 }
