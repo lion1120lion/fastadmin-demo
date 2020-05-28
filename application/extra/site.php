@@ -1,7 +1,7 @@
 <?php
 
 return array (
-  'name' => '我的网站',
+  'name' => 'xxx',
   'beian' => '',
   'cdnurl' => '',
   'version' => '1.0.1',
