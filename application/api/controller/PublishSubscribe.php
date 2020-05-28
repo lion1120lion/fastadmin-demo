@@ -6,5 +6,7 @@ use think\Controller;
 
 class PublishSubscribe extends Controller
 {
-
+    public function one()
+    {
+    }
 }
