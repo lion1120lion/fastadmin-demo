@@ -14,4 +14,8 @@ class MqRouting extends Controller
     public function two()
     {
     }
+
+    public function three()
+    {
+    }
 }
